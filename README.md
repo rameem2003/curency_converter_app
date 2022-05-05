@@ -7,14 +7,20 @@ ___
 
 <br>
 
-### My website: rameem2003.github.io/rameem.me
+### My website: 
+```
+https://rameem2003.github.io/rameem.me
+```
 
 <br>
 
-### To browse my web site copy it 
+### To visit this site copy it 
 ```
-rameem2003.github.io/Mysite
+https://rameem2003.github.io/curency_converter_app/
 ```
+
+# App interface
+![view](./img/view.png)
 
 ## Task List
 
